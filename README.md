@@ -1,5 +1,5 @@
-# Scano
-A simple script written in Python that helps one establish connections and send data to an open port. 
+# Socket Establishment
+A simple script written in Python that helps one establish connections and send data to an open ports. 
 
 #How to run
 Make sure you have net cat installed on your system.
